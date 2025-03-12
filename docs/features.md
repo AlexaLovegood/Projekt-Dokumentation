@@ -1,2 +1,2 @@
 # Features
-Hier findet man alle Funktionen des Projektes.
+Auflistung der wunderbaren Funktionen
